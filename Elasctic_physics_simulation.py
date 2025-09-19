@@ -63,7 +63,7 @@ while True:
                     block.velocity_y += VELOCITY_INCREMENT if block.velocity_y >= 0 else -VELOCITY_INCREMENT
 
     for i, block in enumerate(blocks):
-        if block.rect.top <=0 or block.rect.bottom >= DISPLAY_HEIGHT:
+        if block.rect.top <= 0 or block.rect.bottom >= DISPLAY_HEIGHT:
             block.velocity_y = -block.velocity_y
             block.rect.top = 0 if block.rect.top <= 0 else DISPLAY_HEIGHT - block.rect.height
         
@@ -99,4 +99,5 @@ while True:
     
     DISPLAY_WIDTH, DISPLAY_HEIGHT = display.get_size()
     pygame.display.flip()
+
     clock.tick(120)

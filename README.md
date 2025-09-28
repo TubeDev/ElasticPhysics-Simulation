@@ -63,7 +63,7 @@ Built with clean, object-oriented design (`Block` class). Easy to expand with ne
 
 3. Run the simulation:
    ```bash
-   python main.py
+   python Elastic_physics_simulation.py
    ```
 
 After running the main script, a window should open displaying the simulation. Use the keyboard controls to interact with the blocks!
@@ -81,4 +81,5 @@ You are free to use, modify, and distribute this project as permitted by the lic
 
 <p align="left">
   <img width="500" src="https://github.com/user-attachments/assets/f5a0f154-dee7-4653-9451-caa52513573a" alt="logo" />
+
 </p>

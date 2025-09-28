@@ -49,6 +49,7 @@ Built with clean, object-oriented design (`Block` class). Easy to expand with ne
 </p>
 
 ## ⚙️ How to Run
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/TubeDev/ElasticPhysics-Simulation.git
@@ -82,4 +83,5 @@ You are free to use, modify, and distribute this project as permitted by the lic
   <img width="500" src="https://github.com/user-attachments/assets/f5a0f154-dee7-4653-9451-caa52513573a" alt="logo" />
 
 </p>
+
 

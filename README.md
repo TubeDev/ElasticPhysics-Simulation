@@ -46,7 +46,6 @@ Built with clean, object-oriented design (`Block` class). Easy to expand with ne
 
 <p align="left">
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/7721a419-a7d9-4047-90a8-009ee59500fc"/>
-  <img width="300" alt="Block Simulation" src=""/>
 </p>
 
 ## ⚙️ How to Run
@@ -83,3 +82,4 @@ You are free to use, modify, and distribute this project as permitted by the lic
   <img width="500" src="https://github.com/user-attachments/assets/f5a0f154-dee7-4653-9451-caa52513573a" alt="logo" />
 
 </p>
+
